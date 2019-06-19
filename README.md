@@ -1,2 +1,2 @@
 # Homepage-cseportal
-cse portal homepage allows you to view various courses available under cse
+cseportal homepage is a computerscience homepage which lets you find out what all courses are available under cse.
